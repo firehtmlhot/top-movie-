@@ -1,0 +1,29 @@
+a {
+    color: black;
+    font-family: monospace;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+ h2 {
+     color: #008002;
+ }
+ 
+ div {
+     padding: auto;
+     margin: auto;
+     background: #8de961;
+ }
+ 
+ html,body {
+     padding: 0;
+     margin: 0;
+     left: 0px;
+     top: 0px;
+ }
